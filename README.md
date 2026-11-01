@@ -17,10 +17,14 @@ To design an institutional retirement plan review model supporting data integrat
 ### 4. Visualizations
 
 **Average Annual Salary by Plan Type**
-![Average Annual Salary](salary_chart.png)
+![Average Annual Salary](AverageAnnualSalaryByRetirementPlan.jpg)
 
 **Distribution of Participant Deferral Rates**
-![Deferral Rates](deferral_chart.png)
+![Deferral Rates](DistributionOfParticipantDeferralRates.jpg)
+
+**Fund Performance Costs Executive Summary**
+![Fund Performance Costs](FundPerformanceCostsExecutiveSummary.jpg)
+
 Tools & Technical Stack Used:
 * Python & Data Engineering: Python, Pandas, and NumPy for programmatically generating and structuring the synthetic relational datasets (Participant_Census.xlsx and Fund_Performance_Costs.xlsx).
 
