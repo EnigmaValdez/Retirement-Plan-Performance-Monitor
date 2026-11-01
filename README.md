@@ -1,6 +1,7 @@
 # Retirement Plan Performance & Cost Monitor
 ## Analytical Methodology & Project Documentation
-
+> **Note on Data Provenance:** All datasets (`Participant_Census.xlsx` and `Fund_Performance_Costs.xlsx`) were programmatically generated and engineered using Python to simulate realistic institutional retirement plan census and fund performance parameters.
+> 
 ### 1. Business Objective
 To design an institutional retirement plan review model supporting data integration, participant monitoring, investment performance tracking, and cost efficiency analysis for corporate plan sponsors (simulating operational standards for Shuster Advisory Group).
 
