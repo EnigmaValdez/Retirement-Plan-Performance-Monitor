@@ -14,11 +14,11 @@ To design an institutional retirement plan review model supporting data integrat
 * **Cost Efficiency Analysis:** Evaluates weighted average expense ratios against institutional benchmark targets to ensure fiduciary compliance and fee transparency.
 * **Reporting Architecture:** Multi-tab executive dashboard structured for presentation-ready client reviews and professional portfolio display.
 
-* Tools & Technical Stack Used:
+Tools & Technical Stack Used:
 * Python & Data Engineering: Python, Pandas, and NumPy for programmatically generating and structuring the synthetic relational datasets (Participant_Census.xlsx and Fund_Performance_Costs.xlsx).
 
-Advanced Microsoft Excel / Google Sheets: OpenPyXL alongside native Excel formula architecture (COUNTIF, AVERAGEIF, SUMIF, SUMPRODUCT) to build the multi-tab executive financial model and dashboard (Shuster_Advisory_Group_Retirement_Analytics_Model.xlsx).
+* Advanced Microsoft Excel / OpenPyXL alongside native Excel formula architecture (COUNTIF, AVERAGEIF, SUMIF, SUMPRODUCT) to build the multi-tab executive financial model and dashboard (Shuster_Advisory_Group_Retirement_Analytics_Model.xlsx).
 
-Microsoft PowerPoint: Structured layout design, dark navy corporate header banners, metric container cards, and typography formatting to produce the executive presentation deck, exported as a professional PDF (Shuster_Advisory_Group_Q3_Client_Review_Presentation.pdf).
+* Microsoft PowerPoint: Structured layout design, dark navy corporate header banners, metric container cards, and typography formatting to produce the executive presentation deck, exported as a professional PDF (Shuster_Advisory_Group_Q3_Client_Review_Presentation.pdf).
 
-Git & GitHub: Version control, public repository creation (Retirement-Plan-Performance-Monitor), code commits, and Markdown documentation (README.md) for professional portfolio publishing.
+* Git & GitHub: Version control, public repository creation (Retirement-Plan-Performance-Monitor), code commits, and Markdown documentation (README.md) for professional portfolio publishing.
